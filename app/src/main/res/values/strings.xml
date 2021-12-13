@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Abdyvasiev-Daniyar-DHT-1-19-Final</string>
+    <string name="star">star</string>
+    <string name="bag">bag</string>
+    <string name="compass">compass</string>
+    <string name="person">person</string>
+    <string name="find_rice">Find Rice</string>
+</resources>
